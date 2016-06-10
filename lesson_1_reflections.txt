@@ -1,0 +1,5 @@
+- using diff
+- executing sublime from console
+- .bash_profile (subl) should not use "" in writing export command iin profile file.
+- version control
+- commit
