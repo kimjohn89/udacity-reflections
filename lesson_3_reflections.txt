@@ -4,3 +4,7 @@ git remote: to view remote repository
 git remote add origin URLfromGitHub
 git push: to push the local to remote
 example) git push origin master
+
+Forking
+- similar to cloning except it is done in GitHub.
+- clone can clone for local repository
