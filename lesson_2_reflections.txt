@@ -9,3 +9,5 @@
 - git merge: use the original and the two branches to merge two commits
 
 - git commit --amend: rewrite recent history
+
+Editing using github.
