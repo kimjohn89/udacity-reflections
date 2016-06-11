@@ -1,0 +1,6 @@
+Using github
+
+git remote: to view remote repository
+git remote add origin URLfromGitHub
+git push: to push the local to remote
+example) git push origin master
