@@ -1,3 +1,11 @@
 - git init
 - git stauts
 - git add (????)
+
+
+- git diff: compares working directory and staging area
+- git diff --staged: compares staging area and recent commit
+
+- git merge: use the original and the two branches to merge two commits
+
+- git commit --amend: rewrite recent history
